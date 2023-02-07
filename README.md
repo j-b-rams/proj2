@@ -5,21 +5,21 @@ Submitted by: Joshua Abrams
 **Flixter** is a movie browsing app that allows you to browse 5 different movies, once you click on the table cells
 it will provide additional details of the movie
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ ] Displays at least 5 different movies in a table view
-- [ ] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Users are able to see a customized app icon and launch screen
+- [1/2] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [x]
+- [x] Displays at least 5 different movies in a table view
+- [x] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
-- [ ] Unique UI changes, such as background, font/color changes, etc.
+- [x] Unique UI changes, such as background, font/color changes, etc.
 - [ ] User implements a collection view
 - [ ] User implemenets tab bar controller with at least two screens
 
@@ -33,6 +33,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://media.giphy.com/media/0rKF0HGWHFx0RGDLEm/giphy.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
@@ -44,9 +47,12 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Could not get the scroll wheel to work on the details page
+only the table view page.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Joshua Abrams]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
